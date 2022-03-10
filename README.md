@@ -6,7 +6,7 @@
         Facebook - https://www.facebook.com/PlayerSupport
         Instagram - https://www.instagram.com/alex_the_ok_/
         Twitter - https://twitter.com/Allexsen1
-        gmail - asvanidze12@gmail.com
+        gmail - a_Svanidze3@cu.edu.ge
                       
 
 <!---
