@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Allexsen
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning C++, C# and will learn Python in the near future probably
-- 💞️ I’m looking to collaborate on any interesting projects using C#/C++ 
+- 👀 I’m interested in a Computer Science
+- 🌱 I’m currently learning C++, C#, a bit of HTML + CSS + JS;
+- 💞️ I’m looking to collaborate on any interesting projects using C#/C++; I prefer working on Back-end
 - 📫 How to reach me:
         Facebook - https://www.facebook.com/PlayerSupport
         Instagram - https://www.instagram.com/alex_the_ok_/
