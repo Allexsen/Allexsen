@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allexsen!
 - 👀 I’m interested in a Computer Science;
-- 🌱 I know basics of Javascript, a bit of HTML/CSS & C#;
+- 🌱 I know basics of Javascript, a bit of HTML/CSS, C# and MongoDB Database;
 - 💻 I’m currently learning C++, Python & Node/Express.js;
 - 💞️ I’m looking to collaborate on any interesting projects using Node/Express.js;
 - 📫 How to reach me:
