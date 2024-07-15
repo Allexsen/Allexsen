@@ -1,71 +1,54 @@
-- 👋 Hi, I’m @Allexsen!
-- 👀 I’m interested in a Computer Science;
-- 🌱 I know basics of Javascript, a bit of HTML/CSS, C# and MongoDB Database;
-- 💻 I’m currently learning C++, Python & Node/Express.js;
-- 💞️ I’m looking to collaborate on any interesting projects using Node/Express.js;
-- 📫 How to reach me:
-        Facebook - https://www.facebook.com/PlayerSupport
-        Instagram - https://www.instagram.com/alex_the_ok_/
-        Twitter - https://twitter.com/Allexsen1
-        gmail - a_svanidze3@cu.edu.ge
-
-# Hello, I'm [Your Name] 👋
-
-![Banner Image](https://example.com/your-banner-image.jpg)
+# Hello, I'm Aleksi 👋
 
 ## About Me
 
-🎓 I'm a student at Warsaw University of Technology, pursuing a degree in [Your Field of Study].  
-💻 I am passionate about [list some of your interests, e.g., software development, AI, robotics, etc.].  
-🌱 Currently, I’m learning [mention any new technologies or skills you're learning].  
-🔭 I’m working on [mention any projects or areas you're working on].  
-💬 Ask me about [mention any topics you're knowledgeable about or interested in].  
-📫 How to reach me: [your email address or other contact information].
+🎓 I'm a student at Warsaw University of Technology, pursuing a degree in Computer Science & Information Systems, faculty of Mathematics & Information Science.  
+💻 I am passionate about software development, optimization, algorithms, research, etc.  
+🌱 Currently, I’m learning scalable, robust Restful API design using Go; Frontend development using html/css/js; Unix, and bunch of maths.  
+🔭 I’m working on Upwork as a freelancer. I usually work on high performance algorithm design - news feed generation, for example.  
+💬 Ask me about anything - I am happy to help as much as I can!  
+📫 How to reach me:  
+        - Email: asvanidze12@gmail.com  
+        - [LinkedIn](https://www.linkedin.com/in/aleksi-svanidze/)  
+        - [Twitter](https://twitter.com/asvan03)  
 
 ## Skills
 
-- Programming Languages: [list languages, e.g., Python, Java, C++]
-- Frameworks & Libraries: [list frameworks and libraries, e.g., React, TensorFlow]
-- Tools & Platforms: [list tools and platforms, e.g., Git, Docker, AWS]
-- Other Skills: [mention any other relevant skills, e.g., project management, teamwork]
+- Programming Languages: Go, C/C++, Python  
+- Frameworks & Libraries: Gin, STL  
+- Tools & Platforms: Git, Postman, SQL  
+- Other Skills: Olympic & Competitive Programming, algorithms & data structures.  
 
 ## Projects
 
-### [Project Name 1]
-- **Description:** Briefly describe what the project is about.
-- **Technologies:** List the technologies used.
-- **Repository:** [Link to the repository]
+### HDO Tracer
+- **Description:** HDO traces a given disease ID in the Human Disease Ontology and recovers the disease tree/graph. Capable to trace back and recover all, several thousand diseases under 50ms.
+- **Technologies:** Python
+- **Repository:** N/A, Private repo by the client.  
 
-### [Project Name 2]
-- **Description:** Briefly describe what the project is about.
-- **Technologies:** List the technologies used.
-- **Repository:** [Link to the repository]
+### Wisdom
+- **Description:** Wisdom app shows users a semi pseudo-random quotes they can interact with. My task was to design a high performance algorithm for news feed generation. The algorithmic part is capable to serve over 10 thousand concurent requests under 1 second.  
+- **Technologies:** N/A, I came up with the algorithm design and pseudo code.  
+- **Repository:** N/A, Private repo by the client.  
 
-### [Project Name 3]
-- **Description:** Briefly describe what the project is about.
-- **Technologies:** List the technologies used.
-- **Repository:** [Link to the repository]
+### Practice Project
+- **Description:** Deceiving one, but high performance, well maintained and documented personal project. This is my playground for learning new skills. Currently there are user registration & auth systems, record adding, retrieval & worklog functionality. Auth also uses JWT. Working on adding unit tests, and then implementing live messaging features between users using Kafka.  
+- **Technologies:** Go-Gin, MySQL  
+- **Repository:** [Learning-Project](https://github.com/Allexsen/Learning-Project)  
 
 ## Education
 
 - **Warsaw University of Technology**
-  - Degree: [Your Degree]
-  - Field of Study: [Your Field of Study]
-  - Year: [Your Years of Study]
+  - Degree: Bachelor's of Computer Science
+  - Field of Study: Computer Science & Information Systems
+  - Year: 10/2023 - 12/2026
 
-## Certifications
+## Achievements
 
-- [Certification Name 1] - [Issuing Organization]
-- [Certification Name 2] - [Issuing Organization]
-- [Certification Name 3] - [Issuing Organization]
-
-## Connect with Me
-
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-- Personal Website: [Your Website](https://yourwebsite.com)
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+- 2x ACM-ICPC Worlds Semifinalist
+- Top 300 Google Farewell Round
+- Expert on Codeforces
+- Top 5% placings in numerous local & global programming contests
 
 ---
 
