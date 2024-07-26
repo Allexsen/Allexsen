@@ -32,7 +32,7 @@
 - **Repository:** N/A, Private repo by the client.  
 
 ### Practice Project
-- **Description:** Deceiving one, but high performance, well maintained and documented personal project. This is my playground for learning new skills. Currently there are user registration & auth systems, record adding, retrieval & worklog functionality. Auth also uses JWT. Working on adding unit tests, and then implementing live messaging features between users using probably Centrifugo. 
+- **Description:** Deceiving one, but heading towards a social media mock project. This is my playground for learning new skills. Currently there are user registration & auth systems, record adding, retrieval & worklog functionality, websockets and a single, shared-for-all live chatroom.  
 - **Technologies:** Go-Gin, MySQL  
 - **Repository:** [Learning-Project](https://github.com/Allexsen/Learning-Project)  
 
