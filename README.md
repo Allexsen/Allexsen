@@ -27,8 +27,8 @@
 - **Technologies:** Python
 - **Repository:** N/A, Private repo by the client.  
 
-### Wisdom
-- **Description:** Wisdom app shows users a semi pseudo-random quotes they can interact with. My task was to design a high performance algorithm for news feed generation. The algorithmic part is capable to serve over 10 thousand concurrent requests under 1 second.  
+### Worldwise
+- **Description:** Worldwise is a "wisdom" app that provides users with a pseudo-semirandom quotes they can interact with. My task was to design a high performance algorithm for news feed generation. The algorithmic part is capable to serve over 10 thousand concurrent requests under 1 second.  
 - **Technologies:** N/A, I came up with the algorithm design and pseudo code.  
 - **Repository:** N/A, Private repo by the client.  
 
