@@ -33,7 +33,7 @@
 - **Repository:** N/A, Private repo by the client.  
 
 ### Practice Project
-- **Description:** Deceiving one, but heading towards a social media mock project. This is my playground for learning new skills. Currently there are user registration & auth systems, record adding, retrieval & worklog functionality, room create/join/leave and live messaging. Messages are never saved.
+- **Description:** Deceiving one, but heading towards a social media mock project. This is my playground for learning new skills. Currently there are user registration & auth systems, room create/join/leave and live messaging. Messages are never saved.
 - **Technologies:** Go-Gin, MySQL  
 - **Repository:** [Learning-Project](https://github.com/Allexsen/Learning-Project)  
 
