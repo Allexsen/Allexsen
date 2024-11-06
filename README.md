@@ -3,7 +3,7 @@
 ## About Me
 
 🎓 I'm a student at Warsaw University of Technology, pursuing a degree in Computer Science & Information Systems, faculty of Mathematics & Information Science.  
-💼 I'm interning at Huawei Amsterdam as Machine Learning Researcher.
+💼 I'm interning at Huawei Amsterdam as Machine Learning Researcher.  
 💻 I am passionate about software development, optimization, algorithms, research, etc.  
 🌱 Currently, I’m learning scalable, robust Restful API design using Go; Frontend development using html/css/js; Unix, and bunch of maths.  
 🔭 I also am a freelancer. I usually work on high performance algorithm design.  
