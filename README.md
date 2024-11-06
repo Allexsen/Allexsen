@@ -3,10 +3,10 @@
 ## About Me
 
 🎓 I'm a student at Warsaw University of Technology, pursuing a degree in Computer Science & Information Systems, faculty of Mathematics & Information Science.  
-💼 I work at HackerRank as Subject Matter Expert in Data Structures & Algorithms.
+💼 I'm interning at Huawei Amsterdam as Machine Learning Researcher.
 💻 I am passionate about software development, optimization, algorithms, research, etc.  
 🌱 Currently, I’m learning scalable, robust Restful API design using Go; Frontend development using html/css/js; Unix, and bunch of maths.  
-🔭 I also am a freelancer. I usually work on high performance algorithm design - news feed generation, for example.  
+🔭 I also am a freelancer. I usually work on high performance algorithm design.  
 💬 Ask me about anything - I am happy to help as much as I can!  
 📫 How to reach me:  
         - Email: asvanidze12@gmail.com  
