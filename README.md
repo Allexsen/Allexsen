@@ -5,7 +5,7 @@
 🎓 I'm a student at Warsaw University of Technology, pursuing a degree in Computer Science & Information Systems, faculty of Mathematics & Information Science.  
 💼 ex-Huawei AI/ML Researcher intern, Summer '25 Google Intern. 
 💻 I am passionate about software development, optimization, algorithms, research, etc.  
-🌱 Currently, I’m learning scalable, robust Restful API design using Go; Frontend development using html/css/js; Unix, and bunch of maths.  
+🌱 I do a lot of different stuff, some minor, some major, some not related at all :D
 🔭 I also am a freelancer. I usually work on high performance algorithm design.  
 💬 Ask me about anything - I am happy to help as much as I can!  
 📫 How to reach me:  
