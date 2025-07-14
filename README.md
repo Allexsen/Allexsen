@@ -3,7 +3,7 @@
 ## About Me
 
 🎓 I'm a student at Warsaw University of Technology, pursuing a degree in Computer Science & Information Systems, faculty of Mathematics & Information Science.  
-💼 ex-Huawei AI/ML Researcher intern, Summer '25 Google Intern. 
+💼 ex-Huawei AI/ML Researcher intern, Summer '25 Google Intern [no more, TRC issues]. 
 💻 I am passionate about software development, optimization, algorithms, research, etc.  
 🌱 I do a lot of different stuff, some minor, some major, some not related at all :D
 🔭 I also am a freelancer. I usually work on high performance algorithm design.  
@@ -37,15 +37,7 @@
 - **Technologies:** Go-Gin, MySQL  
 - **Repository:** [Learning-Project](https://github.com/Allexsen/Learning-Project)  
 
-## Education
-
-- **Warsaw University of Technology**
-  - Degree: Bachelor's of Computer Science
-  - Field of Study: Computer Science & Information Systems
-  - Year: 10/2023 - 12/2026
-
 ## Achievements
-
 - 2x ACM-ICPC Worlds Semifinalist
 - Top 300 Google Farewell Round
 - Expert on Codeforces
