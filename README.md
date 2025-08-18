@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 I'm a student at Warsaw University of Technology, pursuing a degree in Computer Science & Information Systems, faculty of Mathematics & Information Science.  
+🎓 I'm a student at Caucasus University, pursuing a degree in Computer Science.
 💼 ex-Huawei AI/ML Researcher intern, Summer '25 Google Intern [no more, TRC issues]. 
 💻 I am passionate about software development, optimization, algorithms, research, etc.  
 🌱 I do a lot of different stuff, some minor, some major, some not related at all :D
@@ -18,7 +18,7 @@
 - Programming Languages: Go, C/C++, Python  
 - Frameworks & Libraries: Gin, STL  
 - Tools & Platforms: Git, Postman, SQL  
-- Other Skills: Olympic & Competitive Programming, algorithms & data structures.  
+- Other Skills: Olympic & Competitive Programming, algorithms & data structures, OOP.  
 
 ## Projects
 
