@@ -4,9 +4,6 @@
 💻 I am passionate about software development, optimization, algorithms, research, etc.  
 🌱 I do a lot of different stuff, some minor, some major, some not related at all :D
 💬 Ask me about anything - I am happy to help as much as I can!  
-📫 How to reach me:  
-        - Email: asvanidze12@gmail.com  
-        - [LinkedIn](https://www.linkedin.com/in/aleksi-svanidze/)  
 
 ---
 
