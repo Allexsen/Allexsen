@@ -1,7 +1,7 @@
 # Hola 👋
 
-💼 Founding Engineer at a SaaS Startup
-🔙 ex-Huawei AI/ML Researcher intern, Summer '25 Google Intern [no more, TRC issues].  
+💼 Founding Engineer at a SaaS Startup  
+🔙 ex-Huawei AI/ML Researcher intern, Summer '25 Google Intern [no more, TRC issues]  
 💻 I am passionate about software development, optimization, algorithms, research, etc.  
 🌱 I do a lot of different stuff, some minor, some major, some not related at all :D  
 💬 Ask me about anything - I am happy to help as much as I can!  
